@@ -2,6 +2,7 @@
  *
  * Calendar of Sunday links to the weekly bulletin
  * with the most recent months first.
+ * First version
  *
  */
   
